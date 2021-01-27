@@ -13,7 +13,8 @@
 2 TL Zitronensaft
 2 TL Olivenöl
 etwas frisch, gehackte Petersilie
-Salz & Pfeffer```
+Salz & Pfeffer
+```
 
 ## Vorbereitung
 

@@ -20,21 +20,20 @@ ggf. Speisestärke
 
 ## Vorbereitung
 
-- Tortellini kochen (salzwasser)
-- Bohnen kochen (salzwasser) 12min
-- Brokkoliröschen (salzwasser) 3min (z.B. gleicher topf wie bohnen)
+- Tortellini kochen in Salzwasser
+- Bohnen in Salzwasser kochen 12min
+- Brokkoliröschen schneiden und in Salzwasser 3min (z.B. gleicher Topf wie Bohnen)
 - Alles andere Gemüße schneiden.
-
 
 ## Kochen
 
-In einen Topf / Große Pfanne geben (mit Butter, Chilli, Gemüsebrühe) und gut mischen. \
-Ablöschen mit der Sahne und Milch.
+Knoblauch, Butter, Pilze, Porree, Chilli und Gemüsebrühe in einen Topf/große Pfanne packen und andünsten.
+Anschließend mit der Sahne und Milch ablöschen.
 
 Tortellini, Bohnen und Brokkoliröschen zugeben und alles etwas köcheln lassen. \
 Wenns zu flüssig ist ggf. mit Stärke andicken.
 
-Abschmecken und Würzen. \
+Dann einmal alles abschmecken und würzen. \
 Anschließend ggf. die Tomaten unterheben und kurz danach runternehmen.
 
 Salz, Pfeffer, Käse draufpacken

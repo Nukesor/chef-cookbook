@@ -6,7 +6,7 @@
 250g Bandnudeln
 250g braune Champignons
 1 Schalotte
-1 Knoblauchzehe
+2 Knoblauchzehen
 1 Becher Schmand oder Crème fraîche (200ml)
 1 EL Tomatenmark
 1 TL Paprikapulver, süß

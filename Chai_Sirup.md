@@ -16,7 +16,7 @@ Wichtig:
 5-10 Pods Kardamom
 1-3 ganze Stangen Zimt
 
-Halwegs wichtig:
+Halbwegs wichtig:
 
 2 Sternanis
 1-2 Tl Piment
@@ -25,18 +25,18 @@ Nen bisschen Pfeffer, grob gemahlen
 1-2 Tl Fenchelsamen
 ```
 
-Wenn man davon Irgendwas nicht hat, kann mans auch weglassen.
-Es sind so viele Gewürze dass es immer nice wird ^^
+Wenn man davon irgendwas nicht hat, kann mans auch weglassen.
+Es sind so viele Gewürze dass es eigentlich immer nice wird ^^.
 
 ## Vorbereitung
 
-- Ingwer in scheiben oder kleine würfel schneiden.
-    Geht auch in Pulverform, ist aber nicht so geil.
+- Ingwer in Scheiben oder kleine würfel schneiden.
+    Geht auch in Pulverform, ist dann aber nicht so geil.
 - Kardamom zerstoßen/zerhacken
-- Zimt ein bisschen zerstoßen (z.B. mit der Rückseite eines Messers vorischtig zerdrücken).
+- Zimt ein bisschen zerstoßen (z.B. mit der Rückseite eines Messers vorsichtig zerdrücken).
 
 ## Kochen
 
-Das Ganze zusammenpacken 1/2 bis 1h sanft köcheln lassen, evtl Wasser nachgießen.
+Das Ganze zusammenpacken 1/2 bis 1h sanft köcheln lassen, ggfs. Wasser nachgießen.
 Wenn man Bock hat kann man du die Gewürze vorher in ner Pfanne kurz anrösten.
 Das soll das Aroma verstärken, geht aber auch ohne.

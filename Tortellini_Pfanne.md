@@ -31,8 +31,8 @@ ggf. Speisestärke
 In einen Topf / Große Pfanne geben (mit Butter, Chilli, Gemüsebrühe) und gut mischen. \
 Ablöschen mit der Sahne und Milch.
 
-Tortellini, Bohnen und Brokkoliröschen zugeben und alles etwas köcheln lassen.
-Wenns zu flüssig ist ggf. mit Stärke andicken. \
+Tortellini, Bohnen und Brokkoliröschen zugeben und alles etwas köcheln lassen. \
+Wenns zu flüssig ist ggf. mit Stärke andicken.
 
 Abschmecken und Würzen. \
 Anschließend ggf. die Tomaten unterheben und kurz danach runternehmen.

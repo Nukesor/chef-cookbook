@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+@import "colors";
+@import "code";
+@import "icons";
+@import "header";
+@import "helpers";
+@import "media";
+@import "navigation";
+@import "search";
+
+html {
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    color: $white;
+    line-height:1.5;
+    hyphens: auto;
+    margin: 0;
+    padding: 0 2rem;
+
+    background: $black;
+}
+
+#{$a-tags} {
+    color: $green;
+    text-decoration: none;
+}
+
+header, nav {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+hr {
+    width: 100%;
+    max-width: $max-content-width;
+}
+
+.bottom-spacing {
+    margin-bottom: $bottom-spacing;
+}
+
+
+// Main content container
+main {
+    width: 100%;
+    max-width: $max-content-width;
+    margin: 0 auto;
+
+    ol, ul, pre {
+        hyphens: none;
+        margin-bottom: $bottom-spacing;
+    }
+
+    p {
+        hyphens: none;
+        margin: 0 0 $bottom-spacing 0;
+    }
+
+    article {
+        a:visited {
+            color: $green;
+        }
+    }
+}

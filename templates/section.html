@@ -1,0 +1,19 @@
+{% extends "index.html" %}
+
+{% block title %}
+    {{ config.title }} | {{ section.title }}
+{% endblock title %}
+
+{% block nav %}
+    {{ macro::navigation(page=section) }}
+{% endblock nav %}
+
+{% block content %}
+    <h1>{{ section.title }}</h1>
+    {{ macro::taxonomies(page=section) }}
+    {{ macro::table_of_content(page=section) }}
+
+    <article>
+        {{ section.content | safe }}
+    </article>
+{% endblock content %}

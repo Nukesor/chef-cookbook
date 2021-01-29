@@ -1,4 +1,13 @@
-# Tortellini Pfanne
++++
+title = "Tortellini Pfanne"
+weight = 0
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Vegetarisch", "Pilze", "Gemüse", "Sahnig"]
+categories = ["Penne"]
+authors = ["see-aestas"]
++++
 
 ## Zutaten für 2 Personen:
 

@@ -1,0 +1,77 @@
+@import "colors";
+@import "helpers";
+
+nav {
+    .navigation-bar {
+        min-width: auto;
+        margin-bottom: 1rem;
+
+        display: flex;
+        flex-flow: column wrap;
+
+        @include tablet-desktop {
+            flex-flow: row wrap;
+            font-size: 1.3rem;
+        }
+    }
+
+    .navigation-button {
+        text-align: center;
+        padding: 0 0.75rem;
+        margin: 0 0.12rem;
+        min-width: 70vw;
+
+        @include tablet-desktop {
+            min-width: 0;
+        }
+
+
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 2px;
+        border-color: $gray;
+
+        background: $dark-gray;
+
+        #{$a-tags} {
+            color: $white;
+        }
+
+        #{$a-tags-hover} {
+            color: $white;
+        }
+    }
+
+    .breadcrumbs {
+        display: flex;
+        flex-flow: row wrap;
+        font-style: italic;
+        justify-content: center;
+        margin-bottom: $bottom-spacing;
+
+        .current-page, a {
+            margin-left: 0.5rem;
+        }
+    }
+
+    .taxonomies {
+        display: flex;
+        flex-flow: row wrap;
+
+        date {
+            color: $green;
+        }
+    }
+}
+
+
+.table-of-contents {
+    list-style: none;
+    color: $green;
+    margin-top: 1rem;
+
+    ul {
+        margin-left: 3rem;
+        list-style: none;
+    }
+}

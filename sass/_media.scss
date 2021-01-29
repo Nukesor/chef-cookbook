@@ -1,0 +1,12 @@
+@import "helpers";
+
+.gif {
+    display: flex;
+    justify-content: center;
+    margin-bottom: $bottom-spacing;
+}
+
+.responsive-picture picture {
+    display: flex;
+    justify-content: center;
+}

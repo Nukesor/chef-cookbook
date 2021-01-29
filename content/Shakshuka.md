@@ -1,3 +1,14 @@
++++
+title = "Shakshuka"
+weight = 2
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Vegetarisch"]
+categories = ["Maghreb"]
+authors = ["3wille"]
++++
+
 # Shakshuka
 
 ## Zutaten für 4 Personen:

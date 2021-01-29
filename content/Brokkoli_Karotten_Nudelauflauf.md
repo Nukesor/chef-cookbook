@@ -1,4 +1,13 @@
-# Brokkoli Karotten Nudelauflauf
++++
+title = "Brokkoli Karotten Nudelauflauf"
+weight = 1
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Käse", "Brokkoli"]
+categories = ["Auflauf", "Penne", "Gemüse", "Vegetarisch"]
+authors = ["Nukesor"]
++++
 
 ## Zutaten für 4-6 Personen:
 

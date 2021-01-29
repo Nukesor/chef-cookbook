@@ -1,4 +1,13 @@
-# Spinat Gorgonzola Risotto
++++
+title = "Spinat Gorgonzola Risotto"
+weight = 1
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Vegetarisch", "Käse", "Reis"]
+categories = []
+authors = ["Nukesor"]
++++
 
 ## Zutaten für 4 Personen:
 

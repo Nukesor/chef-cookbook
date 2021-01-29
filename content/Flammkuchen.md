@@ -1,4 +1,13 @@
-# Flammkuchen
++++
+title = "Flammkuchen"
+weight = 1
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Speck", "Deftig"]
+categories = ["Deutsch"]
+authors = ["Nukesor"]
++++
 
 ## Zutaten für 4 Personen:
 

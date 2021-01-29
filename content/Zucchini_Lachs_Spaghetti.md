@@ -1,4 +1,13 @@
-# Zucchini Lachs Spaghetti
++++
+title = "Zucchini Lachs Spaghetti"
+weight = 0
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Vegetarisch", "Pilze", "Gemüse", "Sahnig"]
+categories = ["Penne"]
+authors = ["dasMerlon"]
++++
 
 ## Zutaten für 2 Personen:
 

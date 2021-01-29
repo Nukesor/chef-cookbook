@@ -1,4 +1,13 @@
-# Chai Sirup (für Kaffeeeee) von [@raffomania](https://github.com/raffomania)
++++
+title = "Chai Sirup (für Kaffeeeee)"
+weight = 1
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Kräuter", "Weihnachtlich"]
+categories = ["Sirup", "Kaffe"]
+authors = ["Raffomania"]
++++
 
 ## Zutaten für ne ganze Menge Sirup:
 

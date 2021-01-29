@@ -1,4 +1,13 @@
-# Spaghetti mit Pilz sahne sauce
++++
+title = "Spaghetti mit Pilz sahne sauce"
+weight = 2
+date = 2021-01-29
+
+[taxonomies]
+tags = ["Vegetarisch", "Sahnig", "Deftig", "Pilze"]
+categories = ["Penne"]
+authors = ["Nukesor"]
++++
 
 ## Zutaten für 2 Personen:
 

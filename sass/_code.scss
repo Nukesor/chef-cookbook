@@ -1,0 +1,19 @@
+@import "helpers";
+
+// Inline code styling
+p code,
+li code {
+    color: $code-color;
+    background-color: $code-background;
+    padding: 1px 4px;
+    font-size: 0.9rem;
+    border-radius: 4px;
+}
+
+// Code blocks
+pre {
+    overflow: auto;
+    font:1rem Consolas, monospace;
+    padding: 1rem;
+    border-radius: 4px;
+}

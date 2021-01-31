@@ -1,13 +1,14 @@
 @charset "utf-8";
 
-@import "colors";
 @import "code";
+@import "footer";
 @import "icons";
 @import "header";
 @import "helpers";
 @import "media";
 @import "navigation";
 @import "search";
+@import "variables";
 
 html {
     font-kerning: normal;
@@ -54,6 +55,8 @@ main {
     width: 100%;
     max-width: $max-content-width;
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 
     ol, ul, pre {
         hyphens: none;

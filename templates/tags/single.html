@@ -3,9 +3,15 @@
 
 {% block nav %} {% endblock nav %}
 
-{% block content %}
-    <h1>{{ term.name }}</h1>
+{% block header %}
+    {{ config.title }} | {{ term.name }}
+{% endblock title %}
 
+{% block title %}
+    {{ term.name }}
+{% endblock title %}
+
+{% block content %}
     {% for page in term.pages %}
         {{ post_macros::page_in_list(page=page) }}
     {% endfor %}

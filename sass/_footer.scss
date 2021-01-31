@@ -1,0 +1,18 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    font-size: 1rem;
+    font-weight: 400;
+    color: $green;
+    margin-bottom: 2rem;
+
+    #{$a-tags} {
+        font-size: 1rem;
+        font-weight: 600;
+
+        cursor: pointer;
+        padding: 2px 5px;
+    }
+}

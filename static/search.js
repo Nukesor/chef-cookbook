@@ -107,11 +107,11 @@ function makeTeaser(body, terms) {
 }
 
 function formatSearchResultItem(item, terms) {
-    var li = document.createElement("li");
-    li.classList.add("search-results__item");
-    li.innerHTML = `<a href="${item.ref}">${item.doc.title}</a>`;
-    li.innerHTML += `<div class="search-results__teaser">${makeTeaser(item.doc.body, terms)}</div>`;
-    return li;
+    var div = document.createElement("div");
+    div.classList.add("search-result");
+    div.innerHTML = `<a href="${item.ref}">${item.doc.title}</a>`;
+    div.innerHTML += `<div class="search-result-teaser">${makeTeaser(item.doc.body, terms)}</div>`;
+    return div;
 }
 
 function initSearch() {
@@ -120,10 +120,9 @@ function initSearch() {
         return;
     }
 
-
-    var $searchResults = document.querySelector(".search-results");
-    var $searchResultsHeader = document.querySelector(".search-results__header");
-    var $searchResultsItems = document.querySelector(".search-results__items");
+    var $searchResults = document.querySelector(".search-results-container");
+    var $searchResultsHeader = document.querySelector(".search-results-header");
+    var $searchResultsItems = document.querySelector(".search-results-items");
     var MAX_ITEMS = 100;
 
     var options = {
@@ -141,9 +140,9 @@ function initSearch() {
         if (!index) {
             return;
         }
-
         $searchResultsItems.innerHTML = "";
         if (term === "") {
+            $searchResultsHeader.innerText = "";
             return;
         }
 

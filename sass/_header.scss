@@ -1,5 +1,5 @@
 @import "helpers";
-@import "colors";
+@import "variables";
 
 .main-header {
     text-align: center;
@@ -9,49 +9,14 @@
     margin-top: 1rem;
 
     @include tablet-desktop {
-        font-size: 5rem;
+        font-size: 3rem;
     }
 }
 
-.main-hero {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    position: relative;
-    font-size: 1rem;
-    font-weight: 400;
-    color: $green;
-
-    @include tablet-desktop {
-        font-size: 1.5rem;
-        display: block;
-    }
-
-    #{$a-tags} {
-        font-size: 12px;
-        font-weight: 600;
-        line-height: 16px;
-        color: $github-color;
-        background-color: $github-background-color;
-        margin: auto;
-
-        cursor: pointer;
-        padding: 2px 5px;
-
-        border-color: $github-border-color;
-        border-radius: .25em;
-
-        @include tablet-desktop {
-            position: absolute;
-            right: -11em;
-            top: 0;
-        }
-    }
-}
 
 h1, h2, h3, h4, h5 {
     text-align: center;
-    margin-top: 2*$bottom-spacing;
+    margin-top: $bottom-spacing;
     margin-bottom: $bottom-spacing;
 
     .anchor {

@@ -38,24 +38,26 @@
 
 {% macro taxonomies(page) %}
     <div class="taxonomies">
-        {% if page.date %}
-        <date>{{ page.date | date(format="%d.%m.%Y") }}</date>
-        {% endif %}
-
-        {% if page.taxonomies.authors %}
-        <ul>
+        {% if page.date and page.taxonomies.authors %}
+            <date>{{ page.date | date(format="%d.%m.%Y") }}</date>
+            By
             {% for author in page.taxonomies.authors %}
-            <li><a href="{{ get_taxonomy_url(kind="authors", name=author) | safe }}" >{{ author }}</a></li>
+                <a href="{{ get_taxonomy_url(kind="authors", name=author) | safe }}" >{{ author }}</a>
             {% endfor %}
-        </ul>
+        <br>
         {% endif %}
-
-        {% if page.taxonomies.tags %}
-        <ul>
-            {% for tag in page.taxonomies.tags %}
-            <li><a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}" >#{{ tag }}</a></li>
+        {% if page.taxonomies.tags or page.taxonomies.categories %}
+            Tags:
+            {% for category in page.taxonomies.categories%}
+                <a href="{{ get_taxonomy_url(kind="categories", name=category) | safe }}" >
+                    {{ category }},
+                </a>
             {% endfor %}
-        </ul>
+            {% for tag in page.taxonomies.tags %}
+                <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}" >
+                    {{ tag }},
+                </a>
+            {% endfor %}
         {% endif %}
     </div>
 {% endmacro taxonomies %}

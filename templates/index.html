@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+        <title>{% block header %}{{ config.title }}{% endblock header %}</title>
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
         <link rel="stylesheet" href="{{ get_url(path="main.css") | safe }}">
@@ -12,26 +12,44 @@
 
     <body>
         <header>
-            <div class="main-header">{{ config.title }}</div>
-            <div>
-                <a class="github-button"
-                   href="https://github.com/nukesor/chef-cookbook">
-                    <i class="fab fa-github"></i> View on Github
-                </a>
+            <div class="main-header">
+                {% block title %}{{ config.title }}{% endblock title %}
             </div>
         </header>
         <nav>
             {% block nav %}
                 {{ macro::navigation(page=section, breadcrumbs=false) }}
             {% endblock nav %}
+
         </nav>
         <main>
+            {% block search %}
+                <div class="search-container">
+                    <input id="search" type="search" placeholder="Search..">
+                </div>
+
+                <div class="search-results-container">
+                    <div class="search-results-header"></div>
+                    <div class="search-results-items"></div>
+                </div>
+
+                <script src="{{ get_url(path="elasticlunr.min.js") | safe }}"></script>
+                <script src="{{ get_url(path="search_index.en.js") | safe }}"></script>
+                <script src="{{ get_url(path="search.js") | safe }}"></script>
+            {% endblock %}
             {% block content %}
                 <article>
                     {{ section.content | safe }}
                 </article>
             {% endblock content %}
         </main>
+
+        <footer>
+            <a class="github-button"
+               href="https://github.com/nukesor/chef-cookbook">
+                <i class="fab fa-github"></i> View on Github
+            </a>
+        </footer>
     </body>
 </html>
 

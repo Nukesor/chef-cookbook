@@ -1,14 +1,26 @@
-#search {
-    width: 100%;
-    padding: 1vw 0;
-    text-align: left;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
-    font-size: 1.625rem;
-    border:none;
-    border-bottom:2px solid #000;
+
+@import "variables";
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+
+    #search {
+        padding: 0.5em 1em;
+        border-bottom: 5px solid;
+        border-radius: 8px;
+
+        background-color: $dark-gray;
+
+        text-align: left;
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+        color: $white;
+        font-size: 1rem.625rem;
+    }
 }
 
-.search-results {
+.search-results-container {
     &header {
         font-style: italic;
         margin:1rem 0 0;
@@ -25,4 +37,15 @@
     &teaser {
         font-size: 1rem;
     }
+}
+
+.search-results-header {
+    margin-bottom: 0.5rem;
+}
+
+.search-result {
+    border: solid 1px;
+    border-radius: 3px;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
 }

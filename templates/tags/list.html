@@ -2,8 +2,15 @@
 
 {% block nav %} {% endblock nav %}
 
+{% block header %}
+    {{ config.title }} | Tags
+{% endblock title %}
+
+{% block title %}
+    Tags
+{% endblock title %}
+
 {% block content %}
-    <h1>Tags</h1>
     {% if terms %}
         <ul>
             {% for term in terms %}

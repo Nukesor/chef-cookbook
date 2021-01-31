@@ -1,7 +1,11 @@
 {% extends "index.html" %}
 
-{% block title %}
+{% block header %}
     {{ config.title }} | {{ section.title }}
+{% endblock title %}
+
+{% block title %}
+    {{ section.title }}
 {% endblock title %}
 
 {% block nav %}
@@ -9,7 +13,6 @@
 {% endblock nav %}
 
 {% block content %}
-    <h1>{{ section.title }}</h1>
     {{ macro::taxonomies(page=section) }}
     {{ macro::table_of_content(page=section) }}
 

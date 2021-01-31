@@ -1,7 +1,11 @@
-@import "colors";
 @import "helpers";
+@import "variables";
 
 nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
     .navigation-bar {
         min-width: auto;
         margin-bottom: 1rem;

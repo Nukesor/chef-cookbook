@@ -1,18 +1,3 @@
-function debounce(func, wait) {
-    var timeout;
-
-    return function () {
-        var context = this;
-        var args = arguments;
-        clearTimeout(timeout);
-
-        timeout = setTimeout(function () {
-            timeout = null;
-            func.apply(context, args);
-        }, wait);
-    };
-}
-
 // Taken from mdbook
 // The strategy is as follows:
 // First, assign a value to each word in the document:
@@ -142,18 +127,18 @@ function initSearch() {
     var MAX_ITEMS = 100;
 
     var options = {
-        bool: "AND",
+        bool: "OR",
+        expand: true,
         fields: {
             title: {boost: 2},
             body: {boost: 1},
         }
     };
-    var currentTerm = "";
     var index = elasticlunr.Index.load(window.searchIndex);
 
-    $searchInput.addEventListener("keyup", debounce(function() {
-        var term = $searchInput.value.trim();
-        if (term === currentTerm || !index) {
+    $searchInput.addEventListener("keyup", function(key_event) {
+        var term = key_event.target.value.trim();
+        if (!index) {
             return;
         }
 
@@ -163,25 +148,26 @@ function initSearch() {
         }
 
         var results = index.search(term, options).filter(function (r) {
+            // Filter out empty results.
             return r.doc.body !== "";
         });
+
+        // Show a message if there are no results.
         if (results.length === 0) {
-            $searchResultsHeader.innerText = `Nothing like «${term}»`;
+            $searchResultsHeader.innerText = `Leider nichts gefunden für «${term}»`;
             return;
         }
 
-        currentTerm = term;
-        $searchResultsHeader.innerText = `${results.length} for «${term}»:`;
+        $searchResultsHeader.innerText = `${results.length} Ergebnisse für «${term}»:`;
         for (var i = 0; i < Math.min(results.length, MAX_ITEMS); i++) {
             if (!results[i].doc.body) {
                 continue;
             }
             // var item = document.createElement("li");
             // item.innerHTML = formatSearchResultItem(results[i], term.split(" "));
-            console.log(results[i]);
             $searchResultsItems.appendChild(formatSearchResultItem(results[i], term.split(" ")));
         }
-    }, 150));
+    });
 }
 
 if (document.readyState === "complete" ||

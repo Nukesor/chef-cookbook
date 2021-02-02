@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://selfhosted-gaming.com/"
+base_url = "https://recipes.arne.beer/"
 #default_language = 'de'
 
 title = "Unsere Rezepte"

@@ -4,8 +4,7 @@ weight = 1
 date = 2021-01-29
 
 [taxonomies]
-tags = ["Speck", "Deftig"]
-categories = ["Deutsch"]
+tags = ["Speck", "Deftig", "Deutsch"]
 authors = ["Nukesor"]
 +++
 

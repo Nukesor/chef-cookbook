@@ -4,8 +4,7 @@ weight = 1
 date = 2021-01-29
 
 [taxonomies]
-tags = ["Käse", "Brokkoli"]
-categories = ["Auflauf", "Penne", "Gemüse", "Vegetarisch"]
+tags = ["Käse", "Brokkoli", "Auflauf", "Pasta", "Gemüse", "Vegetarisch"]
 authors = ["Nukesor"]
 +++
 
@@ -14,11 +13,11 @@ authors = ["Nukesor"]
 ```
 1 Kopf Brokkoli (500g)
 5-6 Karotten
-500gr Fussili
+500g Fussili
 
 Gewürfelte Tomaten (400g Dose oder frisch)
 200ml Creme fraiche oder Sahne.
-400gr Streukäse (Edamer/Gouda oder gemischt)
+400g Streukäse (Edamer/Gouda oder gemischt)
 
 Gemüsebrühwürfel/Pulver für 2-3 Liter Wasser
 Olivenöl oder Butter

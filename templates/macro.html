@@ -46,13 +46,8 @@
             {% endfor %}
         <br>
         {% endif %}
-        {% if page.taxonomies.tags or page.taxonomies.categories %}
+        {% if page.taxonomies.tags %}
             Tags:
-            {% for category in page.taxonomies.categories%}
-                <a href="{{ get_taxonomy_url(kind="categories", name=category) | safe }}" >
-                    {{ category }},
-                </a>
-            {% endfor %}
             {% for tag in page.taxonomies.tags %}
                 <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}" >
                     {{ tag }},

@@ -18,7 +18,6 @@ build_search_index = true
 taxonomies = [
     {name = "authors", rss = true},
     {name = "tags", rss = true},
-    {name = "categories", rss = true},
 ]
 
 [extra]

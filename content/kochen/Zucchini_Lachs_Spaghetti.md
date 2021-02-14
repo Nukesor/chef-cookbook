@@ -4,8 +4,7 @@ weight = 0
 date = 2021-01-29
 
 [taxonomies]
-tags = ["Vegetarisch", "Pilze", "Gemüse", "Sahnig"]
-categories = ["Penne"]
+tags = ["Vegetarisch", "Pilze", "Gemüse", "Sahnig", "Pasta"]
 authors = ["dasMerlon"]
 +++
 

@@ -4,8 +4,7 @@ weight = 0
 date = 2021-02-05
 
 [taxonomies]
-tags = []
-categories = []
+tags = ["Pasta"]
 authors = ["Nukesor"]
 +++
 

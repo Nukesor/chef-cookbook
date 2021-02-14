@@ -5,7 +5,6 @@ date = 2021-02-03
 
 [taxonomies]
 tags = ["Vegetarisch"]
-categories = []
 authors = ["Raffomania"]
 +++
 

@@ -4,8 +4,7 @@ weight = 0
 date = 2021-01-29
 
 [taxonomies]
-tags = []
-categories = []
+tags = ["Gemüse", "leicht", "schnell", "vegetarisch"]
 authors = ["Nukesor"]
 +++
 
@@ -15,7 +14,7 @@ authors = ["Nukesor"]
 6 Mais Wraps/Tortillas
 
 1 Kopfsalat
-2 Putenschnitzel oder Frikadellen
+2 Putenschnitzel, Frikadellen oder Räuchertofu
 200g Streukäse
 1 Gurke
 3 Tomaten

@@ -4,8 +4,7 @@ weight = 0
 date = 2021-01-29
 
 [taxonomies]
-tags = []
-categories = []
+tags = ["Frühstück", "süß"]
 authors = ["Nukesor"]
 +++
 
@@ -18,6 +17,11 @@ Eine Tasse Milch
 2 große (L) Eier
 Prise Salz
 Schuss Sprudelwasser
+
+Beilagen:
+- Gouda + Schinken
+- Zimtzucker
+- Apfelmuß
 ```
 
 ## Vorbereitung

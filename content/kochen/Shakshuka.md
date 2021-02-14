@@ -4,8 +4,7 @@ weight = 2
 date = 2021-01-29
 
 [taxonomies]
-tags = ["Vegetarisch"]
-categories = ["Maghreb"]
+tags = ["Vegetarisch", "Maghreb"]
 authors = ["3wille"]
 +++
 

@@ -4,8 +4,7 @@ weight = 2
 date = 2021-01-29
 
 [taxonomies]
-tags = ["Vegetarisch", "Sahnig", "Deftig", "Pilze"]
-categories = ["Penne"]
+tags = ["Vegetarisch", "Sahnig", "Deftig", "Pilze", "Pasta"]
 authors = ["Nukesor"]
 +++
 

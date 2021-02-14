@@ -16,7 +16,7 @@ authors = ["Nukesor"]
 ## Zutaten für X Personen:
 
 ```
-200gr Milch
+200g Milch
 50m³ Butter
 2 Tropfen Zucker
 ```

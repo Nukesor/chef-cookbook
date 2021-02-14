@@ -4,8 +4,7 @@ weight = 1
 date = 2021-01-29
 
 [taxonomies]
-tags = ["Kräuter", "Weihnachtlich"]
-categories = ["Sirup", "Kaffe"]
+tags = ["Kräuter", "Weihnachtlich", "Sirup", "Kaffe"]
 authors = ["Raffomania"]
 +++
 

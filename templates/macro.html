@@ -13,10 +13,11 @@
         </div>
     {% endif %}
     <div class="navigation-bar">
-    {% for tax in config.taxonomies %}
         <div class="navigation-button">
-            <a href="{{tax.name}}">{{ tax.name | capitalize }}</a>
+            <a href="/tags">Tags</a>
         </div>
-    {% endfor %}
+        <div class="navigation-button">
+            <a href="/authors">Authors</a>
+        </div>
     </div>
 {% endmacro navigation %}

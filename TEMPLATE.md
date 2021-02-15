@@ -5,7 +5,6 @@ date = 2021-01-29
 
 [taxonomies]
 tags = []
-categories = []
 authors = ["Nukesor"]
 +++
 

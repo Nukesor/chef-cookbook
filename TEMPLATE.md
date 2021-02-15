@@ -1,7 +1,7 @@
 +++
 title = "Name des Gerichts"
 weight = 0
-date = 2021-01-29
+date = 2021-MM-DD
 
 [taxonomies]
 tags = []

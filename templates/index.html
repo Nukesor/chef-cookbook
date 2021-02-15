@@ -18,7 +18,31 @@
         </header>
         <nav>
             {% block nav %}
-                {{ macro::navigation(page=section, breadcrumbs=false) }}
+                <div class="navigation-bar">
+                    {% for subsection in section.subsections | sort %}
+                        {% set subsection_item = get_section(path=subsection) %}
+                        <div class="navigation-button">
+                            <a class="navigation-link" href="{{ subsection_item.permalink | safe }}">{{ subsection_item.title  }}</a>
+                        </div>
+                    {% endfor %}
+
+                    <div type="navigation-button" class="icon search"></div>
+                </div>
+                <div class="navigation-bar">
+                    {% for subpage in section.pages %}
+                        <div class="navigation-button">
+                            <a href="{{ subpage.permalink | safe }}">{{ subpage.title  }}</a>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="navigation-bar">
+                    {% for tax in config.taxonomies %}
+                        <div class="navigation-button">
+                            <a href="{{tax.name}}">{{ tax.name | capitalize }}</a>
+                        </div>
+                    {% endfor %}
+                </div>
+                <hr>
             {% endblock nav %}
 
         </nav>
@@ -45,10 +69,13 @@
         </main>
 
         <footer>
-            <a class="github-button"
-               href="https://github.com/nukesor/chef-cookbook">
-                <i class="fab fa-github"></i> View on Github
-            </a>
+            <hr>
+            <div class="github-button">
+                <a
+                   href="https://github.com/nukesor/chef-cookbook">
+                    <i class="fab fa-github"></i> View on Github
+                </a>
+            </div>
         </footer>
     </body>
 </html>

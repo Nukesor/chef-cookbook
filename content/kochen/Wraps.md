@@ -1,7 +1,11 @@
 +++
 title = "Wraps"
+description = "Schnell und sau lecker"
 weight = 0
 date = 2021-02-15
+
+[extra]
+duration = "20 min"
 
 [taxonomies]
 tags = ["Gemüse", "leicht", "schnell", "vegetarisch"]

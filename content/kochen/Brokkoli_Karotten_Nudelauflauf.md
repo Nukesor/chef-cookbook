@@ -1,7 +1,10 @@
 +++
 title = "Brokkoli Karotten Nudelauflauf"
+description = "Ein guter Mix zwischen Gemüse und deftigem Nudel Käseauflauf."
 weight = 1
-date = 2021-01-29
+
+[extra]
+duration = "45 min"
 
 [taxonomies]
 tags = ["Käse", "Brokkoli", "Auflauf", "Pasta", "Gemüse", "Vegetarisch"]

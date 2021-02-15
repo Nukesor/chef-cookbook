@@ -1,7 +1,10 @@
 +++
-title = "Spaghetti mit Pilz sahne sauce"
+title = "Spaghetti mit Pilz-Sahnesauce"
+description = "Sahnig und recht leicht."
 weight = 2
-date = 2021-01-29
+
+[extra]
+duration = "60 min"
 
 [taxonomies]
 tags = ["Vegetarisch", "Sahnig", "Deftig", "Pilze", "Pasta"]

@@ -1,7 +1,10 @@
 +++
 title = "Pellkartoffeln mit Teewurst"
+description = "Super simpel, aber erstaunlich lecker."
 weight = 0
-date = 2021-02-15
+
+[extra]
+duration = "30 min"
 
 [taxonomies]
 tags = ["deftig", "Kartoffeln", "einfach"]

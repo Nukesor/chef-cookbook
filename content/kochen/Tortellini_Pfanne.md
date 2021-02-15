@@ -1,7 +1,10 @@
 +++
 title = "Tortellini Pfanne"
+summary = ""
 weight = 0
-date = 2021-01-29
+
+[extra]
+duration = "60 min"
 
 [taxonomies]
 tags = ["Vegetarisch", "Pilze", "Gemüse", "Sahnig", "Pasta"]

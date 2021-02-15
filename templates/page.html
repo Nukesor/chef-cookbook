@@ -10,9 +10,24 @@
 
 
 {% block content %}
-    {{ macro::taxonomies(page=page) }}
-    {{ macro::table_of_content(page=page) }}
-
+    <div class="taxonomies">
+        {% if page.date and page.taxonomies.authors %}
+            <date>{{ page.date | date(format="%d.%m.%Y") }}</date>
+            By
+            {% for author in page.taxonomies.authors %}
+                <a href="{{ get_taxonomy_url(kind="authors", name=author) | safe }}" >{{ author }}</a>
+            {% endfor %}
+        <br>
+        {% endif %}
+        {% if page.taxonomies.tags %}
+            Tags:
+            {% for tag in page.taxonomies.tags %}
+                <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}" >
+                    {{ tag }},
+                </a>
+            {% endfor %}
+        {% endif %}
+    </div>
     <article>
         {{ page.content | safe }}
     </article>

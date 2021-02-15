@@ -13,8 +13,27 @@
 {% endblock nav %}
 
 {% block content %}
-    {{ macro::taxonomies(page=section) }}
-    {{ macro::table_of_content(page=section) }}
+    {% if section.subsections %}
+        <div class="navigation-bar">
+            {% for subsection in section.subsections | sort %}
+                {% set subsection_item = get_section(path=subsection) %}
+                <div class="navigation-button">
+                    <a class="navigation-link" href="{{ subsection_item.permalink | safe }}">{{ subsection_item.title  }}</a>
+                </div>
+            {% endfor %}
+
+            <div type="navigation-button" class="icon search"></div>
+        </div>
+    {% endif %}
+    {% if section.pages %}
+        <div class="navigation-bar">
+            {% for subpage in section.pages %}
+                <div class="navigation-button">
+                    <a href="{{ subpage.permalink | safe }}">{{ subpage.title  }}</a>
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
 
     <article>
         {{ section.content | safe }}

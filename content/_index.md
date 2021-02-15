@@ -6,4 +6,4 @@ insert_anchor_links = "right"
 
 ## Lecker essen!
 
-Rezepte und lecker.
+Eine Ansammlung aller leckeren Dinge, die sich zu verewigen lohnen und von uns so gekocht wurden.

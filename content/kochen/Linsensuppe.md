@@ -1,7 +1,10 @@
 +++
 title = "Linsensuppe"
+description = "Wenn man was für den Winter und ein paar Tage braucht."
 weight = 0
-date = 2021-02-15
+
+[extra]
+duration = "80 min"
 
 [taxonomies]
 tags = ["deftig", "Deutsch", "Speck"]

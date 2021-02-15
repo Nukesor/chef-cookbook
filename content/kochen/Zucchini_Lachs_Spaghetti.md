@@ -1,7 +1,11 @@
 +++
 title = "Zucchini Lachs Spaghetti"
+description = ""
 weight = 0
 date = 2021-01-29
+
+[extra]
+duration = "30 min"
 
 [taxonomies]
 tags = ["Vegetarisch", "Pilze", "Gemüse", "Sahnig", "Pasta"]

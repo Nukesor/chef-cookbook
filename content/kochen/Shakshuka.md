@@ -1,7 +1,10 @@
 +++
 title = "Shakshuka"
+description = ""
 weight = 2
-date = 2021-01-29
+
+[extra]
+duration = "30 min"
 
 [taxonomies]
 tags = ["Vegetarisch", "Maghreb"]

@@ -1,10 +1,13 @@
 +++
 title = "Käsespätzel"
+description = "GEIL! Also ohne Mist. Ist super viel Fett, aber mega lecker."
 weight = 0
-date = 2021-02-15
+
+[extra]
+duration = "40 min"
 
 [taxonomies]
-tags = ["Deutsch", "Käse", "Auflauf", "vegatorisch", "deftig"]
+tags = ["Deutsch", "Käse", "Auflauf", "vegetarisch", "deftig"]
 authors = ["Nukesor"]
 +++
 

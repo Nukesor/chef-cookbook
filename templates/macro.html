@@ -12,85 +12,11 @@
             {% endif %}
         </div>
     {% endif %}
-    {% if page.subsections %}
-        <div class="navigation-bar">
-            {% for subsection in page.subsections | sort %}
-                {% set subsection_item = get_section(path=subsection) %}
-                <div class="navigation-button">
-                    <a class="navigation-link" href="{{ subsection_item.permalink | safe }}">{{ subsection_item.title  }}</a>
-                </div>
-            {% endfor %}
-
-            <div type="navigation-button" class="icon search"></div>
-        </div>
-    {% endif %}
-    {% if page.pages %}
-        <div class="navigation-bar">
-            {% for subpage in page.pages %}
-                <div class="navigation-button">
-                    <a href="{{ subpage.permalink | safe }}">{{ subpage.title  }}</a>
-                </div>
-            {% endfor %}
-        </div>
-    {% endif %}
-    <hr>
-{% endmacro navigation %}
-
-{% macro taxonomies(page) %}
-    <div class="taxonomies">
-        {% if page.date and page.taxonomies.authors %}
-            <date>{{ page.date | date(format="%d.%m.%Y") }}</date>
-            By
-            {% for author in page.taxonomies.authors %}
-                <a href="{{ get_taxonomy_url(kind="authors", name=author) | safe }}" >{{ author }}</a>
-            {% endfor %}
-        <br>
-        {% endif %}
-        {% if page.taxonomies.tags %}
-            Tags:
-            {% for tag in page.taxonomies.tags %}
-                <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}" >
-                    {{ tag }},
-                </a>
-            {% endfor %}
-        {% endif %}
-    </div>
-{% endmacro taxonomies %}
-
-{% macro top_level_taxonomies() %}
+    <div class="navigation-bar">
     {% for tax in config.taxonomies %}
-        <div><a href="{{tax.name}}">{{ tax.name }}</a></div>
+        <div class="navigation-button">
+            <a href="{{tax.name}}">{{ tax.name | capitalize }}</a>
+        </div>
     {% endfor %}
-{% endmacro top_level_taxonomies %}
-
-{% macro table_of_content(page) %}
-    {% set_global header_count = 0 %}
-    {% for h2 in page.toc %}
-        {% set_global header_count = header_count + 1 %}
-        {% for h3 in h2.children %}
-            {% set_global header_count = header_count + 1 %}
-            {% for h4 in h3.children %}
-                {% set_global header_count = header_count + 1 %}
-            {% endfor %}
-        {% endfor %}
-    {% endfor %}
-
-    {% if header_count > 4 %}
-        <ul class="table-of-content">
-            {% for h2 in page.toc %}
-                <li>
-                    <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
-                    {% if h2.children %}
-                        <ul>
-                            {% for h3 in h2.children %}
-                                <li>
-                                    <a href="{{ h3.permalink | safe }}">{{ h3.title }}</a>
-                                </li>
-                            {% endfor %}
-                        </ul>
-                    {% endif %}
-                </li>
-            {% endfor %}
-        </ul>
-    {% endif %}
-{% endmacro table_of_content %}
+    </div>
+{% endmacro navigation %}

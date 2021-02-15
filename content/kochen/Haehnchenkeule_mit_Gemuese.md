@@ -1,7 +1,10 @@
 +++
 title = "Hähnchenkeule mit Gemüse"
+description = ""
 weight = 0
-date = 2021-02-15
+
+[extra]
+duration = "80 min"
 
 [taxonomies]
 tags = ["mediteran", "fleisch", "Gemüse"]

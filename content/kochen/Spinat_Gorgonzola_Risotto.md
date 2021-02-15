@@ -1,7 +1,10 @@
 +++
 title = "Spinat Gorgonzola Risotto"
+description = "Echt lecker, aber richtig pervers."
 weight = 1
-date = 2021-01-29
+
+[extra]
+duration = "1.5 Std"
 
 [taxonomies]
 tags = ["Vegetarisch", "Käse", "Reis", "Deftig"]

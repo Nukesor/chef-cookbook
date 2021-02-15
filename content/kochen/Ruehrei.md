@@ -1,7 +1,10 @@
 +++
-title = "Rührenei"
+title = "Rührei"
+description = "Schnell, lecker, deftig"
 weight = 0
-date = 2021-02-21
+
+[extra]
+duration = "15 min"
 
 [taxonomies]
 tags = ["Ei", "Frühstück"]

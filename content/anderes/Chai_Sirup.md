@@ -1,7 +1,9 @@
 +++
 title = "Chai Sirup (für Kaffeeeee)"
 weight = 1
-date = 2021-01-29
+
+[extra]
+duration = "80 min"
 
 [taxonomies]
 tags = ["Kräuter", "Weihnachtlich", "Sirup", "Kaffe"]

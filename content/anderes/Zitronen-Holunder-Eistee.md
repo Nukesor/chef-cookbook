@@ -1,7 +1,9 @@
 +++
 title = "Zitronen-Holunder-Eistee"
 weight = 1
-date = 2021-02-03
+
+[extra]
+duration = "10 min"
 
 [taxonomies]
 tags = ["Vegetarisch"]

@@ -1,7 +1,10 @@
 +++
 title = "Flammkuchen"
+description = "Deutsche Pizza. Leicht und super lecker."
 weight = 1
-date = 2021-01-29
+
+[extra]
+duration = "1.5 Std"
 
 [taxonomies]
 tags = ["Speck", "Deftig", "Deutsch"]
@@ -40,6 +43,10 @@ Jede Hälfte sollte für ungefähr ein Backblech reichen.
 
 Die Schmandcreme nun verteilen und verstreichen.
 Danach gleichmäßig die Zwiebeln und den Speck verteilen. 
+
+Mit den Zwiebeln nicht sparen!!!!
+Die Zwiebeln machen echt super viel aus und sind wichtig, hier lieber zu viel als zu wenig!
+Es schmeckt später auch überhaupt nicht mehr nach der klassischen Zwiebel, sondern viel seichter und suuuper lecker.
 
 Achtet darauf ungefähr die Hälfte für das zweite Blech übrig zu lassen.
 

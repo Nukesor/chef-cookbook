@@ -1,7 +1,10 @@
 +++
 title = "Tomatensoße mit Käse oder Oliven"
+description = "Ne simple Tomatensoße, aber etwas gepimped"
 weight = 0
-date = 2021-02-05
+
+[extra]
+duration = "30 min"
 
 [taxonomies]
 tags = ["Pasta"]

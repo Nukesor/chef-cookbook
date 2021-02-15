@@ -1,7 +1,10 @@
 +++
 title = "Pfannkuchen"
+description = "Der Frühstücks-klassiker. Deftig oder süß, immer geil."
 weight = 0
-date = 2021-02-15
+
+[extra]
+duration = "90 min"
 
 [taxonomies]
 tags = ["Frühstück", "süß"]

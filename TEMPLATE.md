@@ -1,7 +1,10 @@
 +++
 title = "Name des Gerichts"
+description = "Schnell, lecker, deftig, einfach lecker essen"
 weight = 0
-date = 2021-MM-DD
+
+[extra]
+duration = "15 min"
 
 [taxonomies]
 tags = []

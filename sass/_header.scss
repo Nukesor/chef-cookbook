@@ -44,3 +44,7 @@ h2, h3 {
     font-weight: 600;
     line-height: 120%;
 }
+
+h3, h4, h5 {
+    margin-bottom: $bottom-spacing/2;
+}

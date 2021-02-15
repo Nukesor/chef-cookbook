@@ -36,11 +36,12 @@
                     {% endfor %}
                 </div>
                 <div class="navigation-bar">
-                    {% for tax in config.taxonomies %}
-                        <div class="navigation-button">
-                            <a href="{{tax.name}}">{{ tax.name | capitalize }}</a>
-                        </div>
-                    {% endfor %}
+                    <div class="navigation-button">
+                        <a href="/tags">Tags</a>
+                    </div>
+                    <div class="navigation-button">
+                        <a href="/authors">Authors</a>
+                    </div>
                 </div>
                 <hr>
             {% endblock nav %}

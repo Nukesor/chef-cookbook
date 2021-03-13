@@ -11,19 +11,21 @@ tags = ["Ei", "Frühstück"]
 authors = ["Nukesor"]
 +++
 
-## Zutaten für 3 Personen:
+## Zutaten für 2 Personen:
 
 ```
-6 Eier
-Käse
-100g Champignons
-2-3 Lauchzwiebeln
-Ein bisschen Speck
+3 Eier
+5 Champignons
 
 7 Kräuter mischung
 Salz
 Pfeffer
 Butter für die Pfanne
+
+Zum verfeinern eine der folgenden Zutaten mit in die Pfanne packen:
+2-3 Lauchzwiebeln
+Ein bisschen gewürfelten Speck
+2 Scheiben in Streifen geschnittene Räuchersalami
 ```
 
 ## Vorbereitung

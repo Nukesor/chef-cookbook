@@ -13,6 +13,11 @@ authors = ["Nukesor"]
 
 ## Zutaten für 6-8 Mahlzeiten:
 
+<div class="gif" alt="Asia Gemüsepfanne">
+    <img src="/kochen/Asia_Gemuesepfanne.png" style="width:auto;"></img>
+</div>
+
+
 ```
 Gemüse:
 

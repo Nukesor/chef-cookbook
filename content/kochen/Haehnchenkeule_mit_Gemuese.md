@@ -11,8 +11,8 @@ tags = ["mediteran", "fleisch", "Gemüse"]
 authors = ["dasMerlon"]
 +++
 
-<div class="gif" alt="Name des Gerichts">
-    <img src="/Haehnchen_mit_Gemuese.png" style="width:auto;"></img>
+<div class="gif" alt="Haehnchenkeule mit Gemüse">
+    <img src="/kochen/Haehnchenkeule_mit_Gemuese.png" style="width:auto;"></img>
 </div>
 
 ## Zutaten für 2 Personen:

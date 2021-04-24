@@ -11,7 +11,7 @@ tags = ["mediteran", "fleisch", "Gemüse"]
 authors = ["dasMerlon"]
 +++
 
-<div class="gif" alt="Haehnchenkeule mit Gemüse">
+<div class="image" alt="Haehnchenkeule mit Gemüse">
     <img src="/kochen/Haehnchenkeule_mit_Gemuese.png" style="width:auto;"></img>
 </div>
 

@@ -11,8 +11,8 @@ tags = ["Käse", "Soße", "Brokkoli", "Pasta", "Schinken"]
 authors = ["Nukesor"]
 +++
 
-<div class="gif" alt="Brokkoli Schinken Käse-Sahnesoße mit Nudeln">
-    <img src="kochen/Brokkoli_Speck_Kaesesahne_sauce.png" style="width:auto;"></img>
+<div class="image" alt="Brokkoli Schinken Käse-Sahnesoße mit Nudeln">
+    <img src="/kochen/Brokkoli_Speck_Kaesesahne_sauce.png" style="width:auto;"></img>
 </div>
 
 ## Zutaten für 4 Personen:

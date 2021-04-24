@@ -11,7 +11,7 @@ tags = []
 authors = ["Nukesor"]
 +++
 
-<div class="gif" alt="Name des Gerichts">
+<div class="image" alt="Name des Gerichts">
     <img src="/doge.jpg" style="width:auto;"></img>
 </div>
 

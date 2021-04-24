@@ -48,7 +48,7 @@ Sobald die Fussili durch sind kann das Ganze in ein Nudelsieb abgeschüttet werd
 Währenddessen eine Pfanne mit Butter/Olivenöl vorheizen und darin die Zwiebeln und den Knoblauch andünsten. \
 Anschließend die Tomatenwürfel und Creme Fraice dazugeben, ein Mal aufkochen und mit den Gewürzen abschmecken.
 
-Die Fussili und das Gemüse nun in einen großen Topf geben, die Sauce darübergießen und alles gut vermengen. \
+Die Fussili und das Gemüse nun in einen großen Topf geben, die Soße darübergießen und alles gut vermengen. \
 Nun kann alles in die Auflaufform(en) verteilt und mit Käse überstreut werden.
 
 Für einen extra leckeren Auflauf kann hier auch etwas Käse in der Mitte verteilt werden.

@@ -44,7 +44,7 @@ Salz
 ## Kochen
 
 Im folgenden wird alles einmal angebraten.
-Ich empfehle das fertig angebratene in einer Schüssel zwischenzulagern, wenn man keine RIESEN Pfanne hat.
+Ich empfehle das fertig Angebratene direkt in einen großen Topf zu packen, wenn man keine RIESEN Pfanne hat.
 
 1. Die Zwiebeln gut schmoren lassen (10 min bei mittlerer Hitze. Nicht anbrennen lassen! Sonst lieber etwas weniger heiß)
 2. Den Speck und die Paprika gut anbraten

@@ -11,6 +11,11 @@ tags = ["Vegetarisch", "Pilze", "Gemüse", "Sahnig", "Pasta"]
 authors = ["see-aestas"]
 +++
 
+<div class="image" alt="Asia Gemüsepfanne">
+    <img src="/kochen/Tortellini_Pfanne.png" style="width:auto;"></img>
+</div>
+
+
 ## Zutaten für 2 Personen:
 
 ```

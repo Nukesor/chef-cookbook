@@ -11,6 +11,10 @@ tags = ["Frühstück", "süß"]
 authors = ["Nukesor"]
 +++
 
+<div class="image" alt="Pfannkuchen">
+    <img src="/kochen/Pfannkuchen.jpg" style="width:auto;"></img>
+</div>
+
 ## Zutaten für 2 Personen:
 
 ```

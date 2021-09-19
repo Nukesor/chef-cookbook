@@ -11,6 +11,11 @@ tags = ["deftig", "Deutsch", "Speck"]
 authors = ["Nukesor"]
 +++
 
+
+<div class="image" alt="Linsensuppe">
+    <img src="/kochen/Linsensuppe.jpg" style="width:auto;"></img>
+</div>
+
 ## Zutaten für 6-8 Personen:
 
 ```

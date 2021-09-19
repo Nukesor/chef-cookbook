@@ -4,7 +4,7 @@ description = "Fleischig, würzige Soße für Nudeln"
 weight = 0
 
 [extra]
-duration = "15 min"
+duration = "45 min"
 
 [taxonomies]
 tags = []

@@ -4,7 +4,7 @@ description = "Simpel, aber sau lecker"
 weight = 0
 
 [extra]
-duration = "15 min"
+duration = "60 min"
 
 [taxonomies]
 tags = ["Kartoffel", "Simpel"]

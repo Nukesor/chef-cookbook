@@ -4,7 +4,7 @@ description = "Schnell, lecker, deftig, einfach lecker essen"
 weight = 0
 
 [extra]
-duration = "15 min"
+duration = "45 min"
 
 [taxonomies]
 tags = ['Schnell', 'Viel', 'Leicht', 'Herzhaft']

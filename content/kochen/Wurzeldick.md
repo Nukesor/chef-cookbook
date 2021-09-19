@@ -15,10 +15,10 @@ authors = ["Nukesor"]
     <img src="/kochen/Wurzeldick.jpg" style="width:auto;"></img>
 </div>
 
-## Zutaten für X Personen:
+## Zutaten für 4 Personen:
 
 ```
-1Kg Karotten
+1kg Karotten
 500g Kartoffeln
 125g Butter
 1/4 Ring Fleischwurst oder ein paar andere leckere deftige Würste

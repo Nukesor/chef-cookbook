@@ -27,7 +27,7 @@ authors = ["Nukesor"]
 100g geräucherter Speck
 
 1/4 TL Kreuzkümmel
-2 TL Pulver Gemüsebrühe
+Pulver/Würfel für 500ml Gemüsebrühe
 4-6 TL Weinessig
 1-2 TL Zucker
 

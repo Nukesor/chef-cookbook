@@ -1,15 +1,20 @@
 +++
-title = "Tomatensoße mit Käse oder Oliven"
-description = "Ne simple Tomatensoße, aber etwas gepimped"
+title = "Spaghetti mit Tomatensoße"
+description = "Ne simple Tomatensoße, aber etwas nach Bedarf gepimped"
 weight = 0
 
 [extra]
 duration = "30 min"
 
 [taxonomies]
-tags = ["Pasta"]
+tags = ["Pasta", "Tomaten"]
 authors = ["Nukesor"]
 +++
+
+<div class="image" alt="Spaghetti mit Tomatensauce">
+    <img src="/kochen/Spaghetti_Tomatensauce.jpg" style="width:auto;"></img>
+</div>
+
 
 ## Zutaten für 4 Personen:
 

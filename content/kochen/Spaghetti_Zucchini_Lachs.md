@@ -1,5 +1,5 @@
 +++
-title = "Zucchini Lachs Spaghetti"
+title = "Spaghetti mit Zucchini Lachs Soße"
 description = ""
 weight = 0
 

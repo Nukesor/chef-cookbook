@@ -26,10 +26,11 @@ authors = ["Nukesor"]
 1 Suppengrün (Petersilie, Möhren, Lauch, Sellerie)
 100g geräucherter Speck
 
-1/4 TL Kreuzkümmel
+1 TL Kreuzkümmel
 Pulver/Würfel für 500ml Gemüsebrühe
-4-6 TL Weinessig
-1-2 TL Zucker
+10 TL Weinessig
+2 TL Zucker
+4 gestrichene El Speisestärke
 
 1 Bouquet Garni
 Öl, Zucker, Salz, Pfeffer
@@ -51,13 +52,17 @@ Ein EL Öl in einem großen Topf erhitzen und den Speck anbraten.
 Das geschnittene Gemüse dazugeben und mit andünsten.
 
 Linsen, Bouquet Garni und 2 Liter Wasser dazugeben.
+Auch 5TL Weinessig dazugeben, den Zucker, die Gemüsebrühe und den Kreuzkümmel dazugeben.
 Kurz aufkochen, Topfdeckel drauf und 45 Min köcheln lassen.
 
 Währenddessen die Kartoffeln schälen und in Stücke schneiden.
 20 Min vor Ende der Kochzeit dazugeben und im Topf mitköcheln, bis alles gar ist.
 
 Herd ausschalten, Bouquet Garni herausnehmen.
-Die Linsensuppe nun mit Essig, Kreuzkümmel, 1-2 TL Zucker, Gemüsebrühe, Salz und Pfeffer abschmecken.
+Die Linsensuppe nun nochmal mit etwas Essig, Kreuzkümmel, Salz und Pfeffer abschmecken.
 
 Würstchen in Scheiben schneiden und dazugeben.
 Alles noch gut 10 Min ziehen lassen, servieren und genießen.
+
+Die Speisestärke mit etwas kaltem Wasser vermischen, in den Topf geben und unter rühren nochmal aufkochen lassen.
+Dadurch wird sie leicht dick, was zum Geschmack nur beiträgt.

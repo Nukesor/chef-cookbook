@@ -21,10 +21,9 @@ authors = ["Nukesor"]
 1 Becher Schmand oder Crème fraîche (200ml)
 
 Schnittlauch (großzügig, das muss grün sein am Ende)
-Gemüsebrühe für 1/2L Wasser
 glatte Petersilie
 Salz, Pfeffer
-Muskatnuss!
+1 TL Muskatnuss
 2 EL Öl zum Anbraten
 1 TL Speisestärke zum Eindicken
 ```

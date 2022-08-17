@@ -1,6 +1,6 @@
 +++
-title = "Linsensuppe"
-description = "Wenn man was für den Winter und ein paar Tage braucht."
+title = "Kartoffelsuppe"
+description = "Sau lecker und einfach."
 weight = 0
 
 [extra]
@@ -57,7 +57,7 @@ Kurz aufkochen, Topfdeckel drauf und 40 Min köcheln lassen.
 
 Währenddessen die Speckstücke in einer separaten Pfanne anbraten.
 
-Nach 30 Minuten alles im Topf einmal gründliche mit dem Pürierstab kleinmachen.
+Nach 40 Minuten alles im Topf einmal gründliche mit dem Pürierstab kleinmachen.
 Danach den Würstchen und Speck dazugeben, darauf achten dass das Fett vom Speck mit in die Suppe kommt!
 Die Linsensuppe nun mit dem Essig, Muskatnuss, Petersilie, Majoran, Pfeffer und Salz abschmecken.
 

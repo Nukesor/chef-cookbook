@@ -19,9 +19,10 @@ authors = ["Nukesor"]
 
 ```
 6cl silver Tequila (alternativ 45ml)
-15ml Orangenlikör
+2cl Orangenlikör
 3cl Limettensaft
 15ml Agavensirup
+Crushed Ice
 
 Verzierung: Limettenscheibe
 Verzierung: Grobe Salzkörner

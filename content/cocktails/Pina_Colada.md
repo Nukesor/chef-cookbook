@@ -22,6 +22,7 @@ authors = ["Nukesor"]
 45ml Kokosnusscreme
 45ml Ananasssaft
 2cl Limettensaft
+Crushed Ice
 
 Verzierung: Ananasscheibe
 ```

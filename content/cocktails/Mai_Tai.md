@@ -23,6 +23,7 @@ authors = ["Nukesor"]
 2cl Orangen Curacao (Cointreau geht auch)
 2cl Limettensaft
 1c Orgeat/Mandelsirup (alt. Amaretto)
+Crushed Ice
 
 Verzierung: Limettenscheibe
 Verzierung: Minzblatt

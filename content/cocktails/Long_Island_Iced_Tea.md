@@ -25,6 +25,7 @@ authors = ["Nukesor"]
 2cl Tripple Sec (Contreau)
 2cl Limettensaft
 Cola
+Eiswürfel
 
 Verzierung: Limettenscheibe
 ```

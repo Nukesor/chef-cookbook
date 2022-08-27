@@ -20,7 +20,7 @@ authors = ["Nukesor"]
 ```
 60ml Tequila
 120ml Orangensaft
-15ml Grenadinensirup
+1cl Grenadinensirup
 
 Verzierung: Orangenscheibe
 Verzierung: Kirsche

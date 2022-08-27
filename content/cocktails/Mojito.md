@@ -19,9 +19,10 @@ authors = ["Nukesor"]
 
 ```
 3 Minzblätter
-15ml Zuckersirup
+1cl Zuckersirup
 6cl weißer Rum
 2cl Limettensaft
+Crushed Ice
 
 Verzierung: Limettenscheibe
 Verzierung: Minzblatt

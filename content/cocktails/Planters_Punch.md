@@ -18,12 +18,12 @@ authors = ["Nukesor"]
 
 
 ```
-9cl dunkler Rum 
-3cl Zuckersirup
+6cl dunkler Rum 
 2cl limettensaft
+1cl Zuckersirup
 1cl Grenadinensirup
 3 Spritzer Angostura bitter
-Schuss Soda
+Schuss Soda (alternativ 8cl Orange)
 
 Verzierung: Minze
 ```

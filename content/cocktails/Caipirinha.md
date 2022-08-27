@@ -21,6 +21,7 @@ authors = ["Nukesor"]
 1/2 Limette
 2 Teelöffel Rohrzucker
 6cl Cachaça
+Crushed Ice
 
 Verzierung: Limettenscheibe
 Verzierung: Minzblatt

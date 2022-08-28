@@ -19,9 +19,11 @@ authors = ["Nukesor"]
 
 ```
 60ml weißer Rum
-45ml Kokosnusscreme
-45ml Ananasssaft
-2cl Limettensaft
+45ml Kokosnusscreme (5 Teelöffel)
+10cl Ananasssaft
+2cl Kokossirup
+1cl Zuckersirup
+1cl Sahne
 Crushed Ice
 
 Verzierung: Ananasscheibe

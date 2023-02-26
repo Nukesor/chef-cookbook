@@ -18,26 +18,27 @@ authors = ["Nukesor"]
 ## Zutaten für 6-8 Personen:
 
 ```
-50g Butter
 500g Rinderhack
 200g Frühstückspeck (Ich nehme inzwischen fertig gewürfelten)
 
-1 Stange Staudensellerie
+3 Stangen Staudensellerie
 2 Möhren
-250g Tomaten
+250g Tomaten (gestückelt aus der Dose probieren?)
 200ml trockener Rotwein
-250ml Rinderbrühe
+2EL Tomatenmark
 Nudeln nach bedarf (für 8 Personen so 1KG)
-1 normale Zwiebel
-2 Zehen Knoblauch
+2 rote Zwiebel
+4 (mittelgroße) Zehen Knoblauch
 ggfs. Stärke
 
 Parmesan
 
-Muskat
-Kräuter der Provence
-Oregano
-Salz
+Olivenöl
+1TL Muskat
+1TL Kräuter der Provence
+1 EL Oregano
+2 Prisen Salz
+Pfeffer nach Belieben
 ```
 
 ## Vorbereitung
@@ -46,7 +47,6 @@ Salz
 - Zwiebeln und Knoblauch klein hacken
 - Staudensellerie kleinschneiden
 - Tomaten würfeln
-- Rinderbrühe anrühren
 
 ## Kochen
 
@@ -57,20 +57,22 @@ Im Folgenden wird alles einmal angebraten.
 Ich empfehle das in mehreren Schritten zu machen, wenn man keine RIESEN Pfanne hat.
 Fertig Angebratenes auch einfach direkt in den Topf packen.
 
-1. Die Hälfte der Butter in die Pfanne geben und die Zwiebeln gut anschmoren (10 min bei mittlerer Hitze. Im Zweifel lieber etwas weniger heiß).
-2. Den Speck gut anbraten.
-3. Den Rest der Butter in die Pfanne geben und das Hack krümmelig braten.
+1. Das Tomatenmark kurz anbraten und in den Tpof packen.
+2. Olivenöl in die Pfanne geben und die Zwiebeln/Knoblauch gut anschmoren (10 min bei mittlerer Hitze. Im Zweifel lieber etwas weniger heiß).
+3. Zwiebeln raus und jetzt den Speck gut anbraten.
+4. Den Speck aus der Pfanne holen, aber so viel Fett wie möglich drinbehalten.
+5. In dem Fett jetzt das Hack krümmelig braten.
 
-
-Jetzt den Wein, Rinderbrühe, Tomaten in den Topf geben.
-Bereits jetzt eine gute Prise Pfeffer und Muskat hinzugeben.
+Jetzt noch den Wein und die Tomaten in den Topf und schon mal eine gute Prise Pfeffer und den Muskat hinzugeben.
 Dann alles einmal richtig aufkochen und anschließend für 2-5 Stunden bei niedriger Hitze köcheln lassen.
-Je länger es köchelt, desto leckerer wird es. \
+
+Am Ende gerne noch eine Kelle Nudelwasser in den Topf geben und noch einmal aufkochen.
+Dadurch wird die Blognese cremiger und bekommt noch mehr Aroma.
+
+Je länger es köchelt, desto leckerer wird es.
 
 Die Nudeln mit der Soße servieren, und nach Bedarf mit Paremsan aufpeppen.
 
+## Tips
 
-Tips:
-
-- Wenn die Soße zu flüssig wird, einfach mit ein bisschen Stärke andicken.
 - Viele finden noch mehr Rotwein gut, probiert gerne rum.

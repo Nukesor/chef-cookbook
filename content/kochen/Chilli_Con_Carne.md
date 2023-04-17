@@ -15,27 +15,24 @@ authors = ["Nukesor"]
     <img src="/kochen/Chilli_con_Carne.jpg" style="width:auto;"></img>
 </div>
 
-## Zutaten für X Personen:
+## Zutaten für 4 Personen
 
 ```
 1 Gemüsezwiebel
 1 Rote Paprika
 2 Zehen knoblauch
-500g Rinderhack
+400-500g Rinderhack
 400g Gewürfelte Tomaten
-400g Kidney Bohnen
+400g Kidney Bohnen (~280g Abtropfgewicht)
+400g Mais (~280g Abtropfgewicht)
+150g Tomatenmark
 
-Tortillas oder Reis als Beilage
+Tortillas, Reis oder Chiabatta als Beilage
 
-Schmand zum Servieren
 Olivenöl
-1 beef stock cube
-½ EL Marjoran
-1 EL Kreuzkümmel
-1 EL Paprika
-1 EL Zucker
-2 EL Tomatenmark
-1 gehäufter EL Hot Chilli Pulver (1 normaler EL falls man es seichter will)
+Schmand zum Servieren
+Eine Chilli Con Carne Gewürzmischung
+Grüner Tabasco
 
 1 größerer Topf
 1 Pfanne (optional, man kann zwischenlagern).
@@ -45,16 +42,13 @@ Olivenöl
 
 - Zwiebeln und Knoblauch fein hacken
 - Paprika würfeln
-- Die Rinderbrühe mit 300ml heißem Wasser vermischen.
 
 ## Kochen
 
-- Zwiebeln und Knoblauch auf niedriger-mittlerer Pfanne für ein paar Minuten mit dem Öl andünsten.
--  Wenn die Zwiebeln gut aussehen und leicht durchsichtig sind, diese kurz auf einen Teller packen oder in der separaten Pfanne lassen.
-- Jetzt das Fleisch und Paprika auf etwas höherer Flamme anbraten.
-- Sobald es das Fleisch Braun und krümmelig angebraten ist, können die Zwiebeln und Gewürze hinzugebegeben werden.
-- Nun auch alle Gewürze, Rinderbrühe, Tomaten, Kidney Bohnen und Mais dazugeben.
-- Die Hitze etwas runterstellen und das ganze für 20 Minuten mit Deckel drauf köcheln lassen. Ab und zu umrühren.
-- Nach der Zeit mal aufmachen und abschmecken. Wenn noch Gewürze fehlen, nachwürzen.
-- Nochmal 10 minuten ohne Deckel köcheln lassen. In der Zwischenzeit ggfs. den Reis machen.
-- Jetzt nochmal 10 Minuten vom Herd nehmen und ruhen lassen. Dann servieren.
+- Zwiebeln und Knoblauch auf niedriger-mittlerer Pfanne für ein paar Minuten mit dem Öl andünsten und in den Topf geben.
+- Jetzt das Fleisch in der Pfanne mit der Gewürzmischung bestreuen auf etwas höherer Flamme anbraten, bis es krümelig/durch ist -> Ab in den Topf.
+- Anschließend das Tomatenmark und die Paprika anbraten und in den Topf geben.
+- Nun auch alle Gewürze, Tomaten, Kidney Bohnen und Mais dazugeben.
+- Einmal richtig aufkochen und dann für 2-3 Stunden köcheln lassen.
+- Nach jeweils einer Stunde mal aufmachen und abschmecken. Wenn noch Gewürze fehlen, nachwürzen.
+- Mit Schmand und Beilage servieren.

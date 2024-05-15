@@ -16,7 +16,6 @@ authors = ["Nukesor"]
     <img src="/cocktails/long_island_iced_tea.webp" style="width:auto;"></img>
 </div>
 
-
 ```
 2cl Vodka
 2cl weißer Rum

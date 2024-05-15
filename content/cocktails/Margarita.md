@@ -16,7 +16,6 @@ authors = ["Nukesor"]
     <img src="/cocktails/margarita.webp" style="width:auto;"></img>
 </div>
 
-
 ```
 6cl silver Tequila (alternativ 45ml)
 2cl Orangenlikör

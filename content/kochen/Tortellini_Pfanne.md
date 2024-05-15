@@ -19,11 +19,11 @@ authors = ["see-aestas"]
 ## Zutaten für 2 Personen:
 
 ```
-1x Tortellini 
+1x Tortellini
 1x Porreestange
 200-300g Pilze (Chapignons)
 2x Knoblauchzehe
-1/2 Brokkoliröschen 
+1/2 Brokkoliröschen
 Bohnen (fein, spitz) nach gefühl (100g?)
 Käse / Pamesan
 100ml Sahne

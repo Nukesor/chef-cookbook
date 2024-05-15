@@ -16,7 +16,6 @@ authors = ["Nukesor"]
     <img src="/cocktails/mai_tai.webp" style="width:auto;"></img>
 </div>
 
-
 ```
 30ml weißer Rum (alternativ 45ml)
 30ml brauner Rum (alternativ 15ml)

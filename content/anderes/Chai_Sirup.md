@@ -19,7 +19,7 @@ authors = ["Raffomania"]
 Folgendes sind ungefähre Angaben.
 Muss man mal rumprobieren.
 
-Wichtig: 
+Wichtig:
 
 2cm frischer Ingwer
 3-4 Nelken
@@ -41,7 +41,7 @@ Es sind so viele Gewürze dass es eigentlich immer nice wird ^^.
 ## Vorbereitung
 
 - Ingwer in Scheiben oder kleine würfel schneiden.
-    Geht auch in Pulverform, ist dann aber nicht so geil.
+  Geht auch in Pulverform, ist dann aber nicht so geil.
 - Kardamom zerstoßen/zerhacken
 - Zimt ein bisschen zerstoßen (z.B. mit der Rückseite eines Messers vorsichtig zerdrücken).
 - Wenn man einen Mörser hat, kann man da gut alle Zutaten reinhauen und grob zerstoßen.

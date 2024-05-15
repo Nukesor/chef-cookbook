@@ -37,7 +37,7 @@ Meersalz
 ## Vorbereitung
 
 - frische Hähnchenschenkel waschen
-- Gemüse in mundgerechte Stücke schneiden 
+- Gemüse in mundgerechte Stücke schneiden
 
 #### Marinade
 

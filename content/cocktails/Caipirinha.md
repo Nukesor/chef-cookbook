@@ -16,7 +16,6 @@ authors = ["Nukesor"]
     <img src="/cocktails/caipirinha.webp" style="width:auto;"></img>
 </div>
 
-
 ```
 1/2 Limette
 2 Teelöffel Rohrzucker

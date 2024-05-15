@@ -22,27 +22,27 @@ authors = ["Nukesor"]
 250g Zwiebeln
 250g geräucherten durchwachsenen Speck
 200g Schmand
-200g Créme fraíche 
+200g Créme fraíche
 
 Salz
 ```
 
 ## Kochen
 
-Hefe ins Wasser zerbröckeln und mit Zucker verrühren, bis die Hefe flüssig wird. 
+Hefe ins Wasser zerbröckeln und mit Zucker verrühren, bis die Hefe flüssig wird.
 Mehl, 1/2 TL Salz, Öl und Wasser in eine Schüssel geben. und sofort zu einem glatten Teig verkneten.
-Teig zugedeckt an einem warmen Ort ca. 30 Minuten gehen lassen. 
+Teig zugedeckt an einem warmen Ort ca. 30 Minuten gehen lassen.
 
 In der Zwischenzeit Zwiebeln schälen, halbieren und in Ringe schneiden.
 Speck in Streifen (oder Würel) schneiden.
-Schmand und Crème fraîche verrühren, mit Salz und Pfeffer würzen. 
+Schmand und Crème fraîche verrühren, mit Salz und Pfeffer würzen.
 
 Hefeteig halbieren, nochmals durchkneten.
 Backblech mit Backpapier auslegen und Teig darauflegen.
 Jede Hälfte sollte für ungefähr ein Backblech reichen.
 
 Die Schmandcreme nun verteilen und verstreichen.
-Danach gleichmäßig die Zwiebeln und den Speck verteilen. 
+Danach gleichmäßig die Zwiebeln und den Speck verteilen.
 
 Mit den Zwiebeln nicht sparen!!!!
 Die Zwiebeln machen echt super viel aus und sind wichtig, hier lieber zu viel als zu wenig!

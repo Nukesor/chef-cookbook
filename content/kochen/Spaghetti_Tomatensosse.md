@@ -23,7 +23,7 @@ authors = ["Nukesor"]
 2-3 Zehen Knoblauch
 800g Tomatenstücke (evtl. sogar vorgewürzt)
 
-Je nach Laune entweder: 
+Je nach Laune entweder:
 1/2 Glas schwarze Oliven (gewürzt mit Kräutern oder scharfer Füllung)
 250g geriebener junger Gouda
 

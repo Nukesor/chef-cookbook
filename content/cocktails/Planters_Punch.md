@@ -18,7 +18,7 @@ authors = ["Nukesor"]
 
 
 ```
-6cl dunkler Rum 
+6cl dunkler Rum
 2cl Limettensaft
 1cl Grenadinensirup
 3 Spritzer Angostura bitter

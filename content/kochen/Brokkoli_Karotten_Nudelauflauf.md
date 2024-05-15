@@ -62,5 +62,4 @@ Nun kann alles in die Auflaufform(en) verteilt und mit Käse überstreut werden.
 Für einen extra leckeren Auflauf kann hier auch etwas Käse in der Mitte verteilt werden.
 Dafür die Auflaufform halb auffüllen, mit Käse bestreuen, Rest auffüllen, obere Schicht mit Käse bestreuen
 
-
 Nun den Auflauf bei ca. 180 Grad im Ofen für 15 Minuten backen lassen.

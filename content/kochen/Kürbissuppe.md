@@ -21,8 +21,8 @@ authors = ["Nukesor"]
 2EL Butter
 1 Liter Gemüsebrühe
 400ml Kokosmilch
-1EL Currypaste
 Salz und Pfeffer
+(1EL Currypaste optional für mehr Thai)
 (Sojasauce (Low-sodium))
 1 Limette
 Koriandergrün zum Garnieren

@@ -23,7 +23,7 @@ authors = ["Nukesor"]
 
 3 Stangen Staudensellerie
 2 Möhren
-250g Tomaten (gestückelt aus der Dose probieren?)
+400g passierte Tomaten
 200ml trockener Rotwein
 2EL Tomatenmark
 Nudeln nach bedarf (für 8 Personen so 1KG)
@@ -49,13 +49,12 @@ Olivenöl
 - Zwiebeln und Knoblauch klein hacken
 - Staudensellerie kleinschneiden
 - Gewürzmischung fürs Hack vorbereiten
-- Tomaten würfeln
 
 ## Kochen
 
 Zuerst das geschnittene Gemüse (Karotten + Sellerie) kurz für 6-8 Minuten bei geringer Hitze in einem anderen Topf köchen lassen.
 Das Wasser abgießen, das Gemüse kann im Topf bleiben.
-Die Tomaten können auch jetzt schon in den Topf.
+Die passierten Tomaten können auch jetzt schon in den Topf.
 
 Im Folgenden wird alles einmal angebraten.
 Ich empfehle das in mehreren Schritten zu machen, wenn man keine RIESEN Pfanne hat.

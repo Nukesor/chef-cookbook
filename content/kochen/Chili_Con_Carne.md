@@ -27,7 +27,7 @@ Ein Schuss trockenen fruchtigen Rotwein (ca. 100ml). Der Rest zum Essen :D.
 400g passierte Tomaten
 400g Kidney Bohnen (~280g Abtropfgewicht)
 400g Mais (~280g Abtropfgewicht)
-100g zartbitter Schokolade
+100g zartbitter Schokolade (min 70% oder mehr, sonst zu süß).
 
 Tortillas, Reis oder Chiabatta als Beilage
 
@@ -80,4 +80,5 @@ Kochen:
    Ich nutze meist noch etwas Kreuzkümmel, Paprika (süß + geräuchert), Chilli Flocken und falls Salz fehlt etwas Gemüsebrühpulver.
    Experimentier gerne rum (etwas Zimt ist z.B. auch nice)
 5. Am Ende der Kochzeit die Schokolade hinzugeben, und gut verrühren.
-6. Mit Schmand und Beilage servieren.
+6. Ggfs. nochmal nachwürzen, die Schoki nimmt gut Schärfe raus.
+7. Mit Schmand und Beilage servieren.

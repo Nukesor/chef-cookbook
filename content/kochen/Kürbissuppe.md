@@ -17,17 +17,24 @@ authors = ["Nukesor"]
 800g Hokkaidokürbis /Butternusskürbis
 600g Möhre, geschält gewogen
 1 daumengroßes Stück Ingwer
-1 Zwiebel
-2EL Butter
+2 normale Zwiebeln
+800ml (feste) Kokosmilch
 1 Liter Gemüsebrühe
-400ml Kokosmilch
-Salz und Pfeffer
-(1EL Currypaste optional für mehr Thai)
-(Sojasauce (Low-sodium))
 1 Limette
+2EL Butter
+
+Optional für mehr Thai:
+1EL Currypaste
+1/2TL Currypulver
 Koriandergrün zum Garnieren
 
-Beilage (eines davon):
+Gewürze:
+Ein wenig Salz
+Viel Pfeffer
+Muskatnuss
+(Sojasauce (Low-sodium))
+
+Mögliche Beilage:
 - Baguette
 - Ciabatta
 ```
@@ -42,7 +49,7 @@ Beilage (eines davon):
 ## Kochen
 
 - Zwiebel und Ingwer andünsten
-- Currypaste dazugeben und kurz mit anschwitzen
+- (Optional) Currypaste dazugeben und kurz mit anschwitzen
 - Gemüse in den Topf geben und kurz mit andünsten
 - Brühe und Kokosmilch dazugeben und 25min köcheln lassen.
 - Die Suppe pürieren

@@ -1,6 +1,6 @@
 +++
 title = "Brokkoli Schinken Käse-Sahnesoße mit Nudeln"
-description = "Leckere leichte Käse-Sahnesoße mit deftigem Speck und Brokkoli"
+description = "Leckere Käse-Sahnesoße mit deftigem Speck und Brokkoli"
 weight = 0
 
 [extra]
@@ -20,7 +20,7 @@ authors = ["Nukesor"]
 ```
 500g Nudeln
 500g Brokkoli
-250g geräucherter Schinken
+250g geräucherter Schinken (kein gekochter)
 
 
 -- Für die Soße --
@@ -52,7 +52,7 @@ Brokkoli heiß abbrühen und dann in Salzwasser/Gemüsebrühe bissfest garen.
 
 Für die Soße 2EL Butter zerlassen und dann 2EL Mehl dazugeben.
 Unter ständigem umrühren anschwitzen, bis das Mehl leicht anbräunt. \
-Nun die heiße Milch einrühren und mindestens 15min köcheln bis die Soße sämig ist.
+Nun die heiße Milch einrühren und köcheln lassen bis die Soße sämig ist.
 
 1 Prise Muskat, 1 Prise Thymian und 2 EL Balsamico dazugeben und abschmecken. \
 Anschließend 3EL Creme fraiche, Mozerella, Parmesan, 1EL Senf und 2EL Schmand unterrühren.

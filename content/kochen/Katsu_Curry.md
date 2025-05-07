@@ -81,6 +81,7 @@ Bei ~170°C können die Schnitzel dann rein. Deckel drauf packen hilft die Tempe
 Ich drehe den Regler sogar etwas runter auf 8/10, was bei uns ausreicht die Temperatur zu halten. Aber behaltet ein Auge auf das Thermometer.
 Wenn das Öl anfängt zu qualmen, seid ihr definitiv zu heiß!
 
+Falls ihr Lust habt, kann man jetzt das Butterreinfett dazupacken. (Keine Butter!!! Die explodiert bei den Temperaturen einfach)
 Die Schnitzel von beiden Seiten anfrittieren, wie ihr es gerne habt. Wie lange das dauert müsst ihr für euch selbst rausfinden.
 
 Fertig!

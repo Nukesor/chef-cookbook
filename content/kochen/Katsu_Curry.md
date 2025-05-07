@@ -74,15 +74,22 @@ Drei Teller vorbereiten: Mehl -> gequirlte Eier -> Paniermehl/Panko.
 Das Schnitzel erst in Mehl wälzen und ordentlich "einmehlen". Je besser es bedeckt ist, desto besser hält das Ei.
 Dann in das Ei tunken und von dort direkt in das Paniermehl/Panko. Auch hier darauf achten, dass alles gut bedeckt ist.
 
-Wenn alle Schnitzel vorbereitet sind, ordentlich Öl in die Pfanne, sodass die Schnitzel mindestens zur Hälfte im Öl "versinken".
-Thermometer rein und dann das Öl hochheizen.
+Wenn alle Schnitzel vorbereitet sind, kann das frittieren losgehen.
 
-Bei ~170°C können die Schnitzel dann rein. Deckel drauf packen hilft die Temperatur zu regulieren und stabil zu halten und das Öl spritzt nicht so rum!
-Ich drehe den Regler sogar etwas runter auf 8/10, was bei uns ausreicht die Temperatur zu halten. Aber behaltet ein Auge auf das Thermometer 165-170°C ist super, 180°C ist zu heiß.
-Wenn das Öl anfängt zu qualmen, seid ihr definitiv zu heiß, evtl. kann euer Öl das auch nicht ab! Passt auf, das ist gefährlich. Schaut euch vorher mal an, wie man mit einem Ölbrand umgeht.
+1. Ordentlich Öl in die Pfanne, sodass die Schnitzel mindestens zur Hälfte im Öl "versinken".
+1. Thermometer rein und dann das Öl hochheizen.
+1. 165-170°C sind perfekt:
+   - Die Temperatur in der Pfanne fluktuiert stark, vor allem beim reingeben vom Schnitzel.
+   - Deckel hilft dabei Temperatur zu halten (und weniger Ölspritzer), aber es wird auch heißer!
+   - Mit Deckel drehe ich den Regler sogar etwas runter auf 8/10, was bei uns ausreicht die Temperatur zu halten.
+1. Behaltet ein Auge auf das Thermometer!!!
+   - 165-170°C ist super, 180°C ist zu heiß. Noch heißer und es besteht Gefahr auf Ölbrand.
+   - Wenn das Öl anfängt zu qualmen, seid ihr definitiv zu heiß, oder euer Öl das einfach nicht ab!
+   - Passt auf, in der Pfanne frittieren kann gefährlich sein, wenn man unbedacht ist.
+     Schaut euch vorher mal an, wie man mit einem Ölbrand umgeht.
 
-Falls ihr Lust habt, kann man jetzt das Butterreinfett dazupacken. (Keine normale Butter!!! Die explodiert bei den Temperaturen einfach.)
 Die Schnitzel von beiden Seiten anfrittieren, wie ihr es gerne habt. Wie lange das dauert müsst ihr für euch selbst rausfinden.
+Falls ihr Lust habt, kann man gegen Ende noch das Butterreinfett dazupacken. (Keine normale Butter!!! Die explodiert bei den Temperaturen einfach.)
 
 Fertig!
 

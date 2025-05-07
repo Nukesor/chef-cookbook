@@ -68,7 +68,7 @@ Zu allererst das Hähnchenfleisch einmal kurz unter lauwarmem Wasser abwaschen u
 Die Hähnchenbrust nehmen und dann "aufschneiden"/längs halbieren, da die Brust in der Regel zu dick für ein Schnitzel ist.
 
 Die aufgeschnittenene Stücke nehmen und großzügig mit Frischhaltefolie bedecken.
-Dann mit dem Fleischhammer bearbeiten, bis es zart und breiteklopft ist. Nicht zu viel, sonst wird es "matschig".
+Dann mit dem Fleischhammer bearbeiten, bis es zart und breitgeklopft ist. Nicht zu viel, sonst wird es "matschig".
 
 Drei Teller vorbereiten: Mehl -> gequirlte Eier -> Paniermehl/Panko.
 Das Schnitzel erst in Mehl wälzen und ordentlich "einmehlen". Je besser es bedeckt ist, desto besser hält das Ei.
@@ -78,10 +78,10 @@ Wenn alle Schnitzel vorbereitet sind, ordentlich Öl in die Pfanne, sodass die S
 Thermometer rein und dann das Öl hochheizen.
 
 Bei ~170°C können die Schnitzel dann rein. Deckel drauf packen hilft die Temperatur zu regulieren und stabil zu halten und das Öl spritzt nicht so rum!
-Ich drehe den Regler sogar etwas runter auf 8/10, was bei uns ausreicht die Temperatur zu halten. Aber behaltet ein Auge auf das Thermometer.
-Wenn das Öl anfängt zu qualmen, seid ihr definitiv zu heiß!
+Ich drehe den Regler sogar etwas runter auf 8/10, was bei uns ausreicht die Temperatur zu halten. Aber behaltet ein Auge auf das Thermometer 165-170°C ist super, 180°C ist zu heiß.
+Wenn das Öl anfängt zu qualmen, seid ihr definitiv zu heiß, evtl. kann euer Öl das auch nicht ab! Passt auf, das ist gefährlich. Schaut euch vorher mal an, wie man mit einem Ölbrand umgeht.
 
-Falls ihr Lust habt, kann man jetzt das Butterreinfett dazupacken. (Keine Butter!!! Die explodiert bei den Temperaturen einfach)
+Falls ihr Lust habt, kann man jetzt das Butterreinfett dazupacken. (Keine normale Butter!!! Die explodiert bei den Temperaturen einfach.)
 Die Schnitzel von beiden Seiten anfrittieren, wie ihr es gerne habt. Wie lange das dauert müsst ihr für euch selbst rausfinden.
 
 Fertig!

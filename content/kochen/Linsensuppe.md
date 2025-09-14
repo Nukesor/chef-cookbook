@@ -16,23 +16,23 @@ authors = ["Nukesor"]
     <img src="/kochen/Linsensuppe.jpg" style="width:auto;"></img>
 </div>
 
-## Zutaten für 6-8 Personen:
+## Zutaten für 8 Personen:
 
 ```
-250g Tellerlinsen
-500g Kartoffeln
-4 Wiener Würstchen
-1 Zwiebel
+500g Tellerlinsen
+250g Kartoffeln
+4 Salzbrenner
+2 Zwiebeln
 1 Suppengrün (Petersilie, Möhren, Lauch, Sellerie)
-100g geräucherter Speck
+3-4 Extra Möhren
+200g geräucherter Speck
 
 1 TL Kreuzkümmel
-Pulver/Würfel für 500ml Gemüsebrühe
-10 TL Weinessig
-2 TL Zucker
-4 gestrichene El Speisestärke
+1 TL Muskat
+2 EL Senf
+2 EL Weinessig
 
-1 Bouquet Garni
+Gemüsebrühe
 Öl, Zucker, Salz, Pfeffer
 ```
 
@@ -40,7 +40,6 @@ Pulver/Würfel für 500ml Gemüsebrühe
 
 - Speck in feine Streifen oder Würfel schneiden
 - Die Linsen in einem Sieb waschen
-- Bouquet Garni waschen
 - Das Suppengrün waschen und in kleine Stücke schneiden
 - Zwiebel fein hacken
 
@@ -48,21 +47,15 @@ Pulver/Würfel für 500ml Gemüsebrühe
 
 Zubereitung (ca. 80 Minuten)
 
-Ein EL Öl in einem großen Topf erhitzen und den Speck anbraten.
-Das geschnittene Gemüse dazugeben und mit andünsten.
+Linsen mit 2.5L Gemüsebrühe in den (großen) Topf geben.
+Linsen aufkochen und dann schon mal 30min köcheln.
 
-Linsen, Bouquet Garni und 2 Liter Wasser dazugeben.
-Auch 5TL Weinessig dazugeben, den Zucker, die Gemüsebrühe und den Kreuzkümmel dazugeben.
-Kurz aufkochen, Topfdeckel drauf und 45 Min köcheln lassen.
+Währenddessen 2 EL Öl in einer Pfanne erhitzen und die Zwiebeln + Lauch auf eher niedriger Hitze andünsten.
 
-Währenddessen die Kartoffeln schälen und in Stücke schneiden.
-20 Min vor Ende der Kochzeit dazugeben und im Topf mitköcheln, bis alles gar ist.
+Nach den 30min das geschnittene Gemüse, die Zwiebeln und den Lauch zu den Linsen geben.
+Auch den Weinessig, die Gewürze und die Würstchenscheiben dazugeben.
+Nochmal kurz aufkochen, Topfdeckel drauf und weitere 30min köcheln lassen.
 
-Herd ausschalten, Bouquet Garni herausnehmen.
-Die Linsensuppe nun nochmal mit etwas Essig, Kreuzkümmel, Salz und Pfeffer abschmecken.
+Jetzt den Speck richtig schön braun auf hoher Hitze anbraten und dann einfach direkt mit in den Topf geben.
 
-Würstchen in Scheiben schneiden und dazugeben.
-Alles noch gut 10 Min ziehen lassen, servieren und genießen.
-
-Die Speisestärke mit etwas kaltem Wasser vermischen, in den Topf geben und unter rühren nochmal aufkochen lassen.
-Dadurch wird sie leicht dick, was zum Geschmack nur beiträgt.
+Nach den 30min ist es dann feddich.

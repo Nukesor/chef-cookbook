@@ -56,6 +56,8 @@ Nach den 30min das geschnittene Gemüse, die Zwiebeln und den Lauch zu den Linse
 Auch den Weinessig, die Gewürze und die Würstchenscheiben dazugeben.
 Nochmal kurz aufkochen, Topfdeckel drauf und weitere 30min köcheln lassen.
 
-Jetzt den Speck richtig schön braun auf hoher Hitze anbraten und dann einfach direkt mit in den Topf geben.
+Parallel den Speck richtig schön braun auf hoher Hitze anbraten und dann einfach direkt mit in den Topf geben.
 
-Nach den 30min ist es dann feddich.
+Nach den 30min köcheln ist es dann feddich.
+Aufpassen! Wenn ihr jetzt noch nachwürzen wollt, tobt euch aus **aber** packt keinen neuen Essig rein.
+Wenn ihr Essig reinpackt, müsst ihr nochmal etwas köcheln lassen, da der Essig sonst zu intensiv und sauer ist.

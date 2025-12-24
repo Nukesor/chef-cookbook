@@ -16,8 +16,9 @@ authors = ["Arne"]
 ```
 1 Bio-Orange
 1 Zitrone
-2l Rotwein
+1.5l Rotwein
 500ml Orangensaft mit Fruchtfleisch
+100ml Cointreau
 1 Stange Zimt
 4 Sternanis
 6 Gewürznelken
@@ -32,15 +33,7 @@ Zuckerzange
 - Orange heiß waschen.
 - Die Orange in Scheiben schneiden
 - Eine hälfte der Zitrone auspressen und die andere Hälfte in Scheiben schneiden.
-- In einen Topf packen:
-  - 1.5L Rotwein
-  - O-Saft mit Fruchtfleisch
-  - 100ml Cointreau
-  - Ausgepresster Zitronen/Orangensaft
-  - 1 Stange Zimt
-  - 4 Sternanis
-  - 6 Gewürznelken
-  - Zitronensaft und alle Scheiben
+- Alles bis auf den Zuckerhut in den Topf geben
 - Flüssigkeit vorsichtig erhitzen (nicht kochen, optimal bei ~50º-70ºC! Ab 78ºC spätestens geht der Alkohol flöten. Deckel drauf haben hilft, dass nicht so viel verdampft.).
 - Die Gewürze etwas (30min) in der heißen Flüssigkeit ziehen lassen.
 

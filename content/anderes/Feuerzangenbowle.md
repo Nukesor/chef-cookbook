@@ -30,21 +30,23 @@ Zuckerzange
 ## Zubereitung
 
 - Orange heiß waschen.
-- Eine Hälfte der Orange in Scheiben schneiden
-- Die andere Hälfte und die Zitrone auspressen
+- Die Orange in Scheiben schneiden
+- Eine hälfte der Zitrone auspressen und die andere Hälfte in Scheiben schneiden.
 - In einen Topf packen:
-  - 2L Rotwein
+  - 1.5L Rotwein
   - O-Saft mit Fruchtfleisch
+  - 100ml Cointreau
   - Ausgepresster Zitronen/Orangensaft
   - 1 Stange Zimt
   - 4 Sternanis
   - 6 Gewürznelken
-- Flüssigkeit vorsichtig erhitzen (nicht kochen, optimal bei ~60º-70ºC! Ab 78ºC spätestens geht der Alkohol flöten).
+  - Zitronensaft und alle Scheiben
+- Flüssigkeit vorsichtig erhitzen (nicht kochen, optimal bei ~50º-70ºC! Ab 78ºC spätestens geht der Alkohol flöten. Deckel drauf haben hilft, dass nicht so viel verdampft.).
 - Die Gewürze etwas (30min) in der heißen Flüssigkeit ziehen lassen.
 
 Falls vorhanden, jetzt die Mischung in einen Punschtopf umfüllen oder einfach im Topf behalten.
 Den Zuckerhut auf die Zuckerzange über den Topf legen.
 
-Einen Schuss Rum in eine (nicht brennbare) Kelle geben und über den Zuckerhut verteilen.
+Einen guten Schuss Rum in eine (nicht brennbare) Kelle geben und über den Zuckerhut verteilen, bis der Hut getränkt ist.
 Den Zuckerhut anzünden.
-Wenn die Flamme kleiner wird, vorsichtig eine neue Kelle nachgeben, bis der Zuckerhut komplett geschmolzen und verlaufen ist.
+Wenn die Flamme kleiner wird, vorsichtig eine neue Kelle nachgeben, bis der Zuckerhut komplett karamelisiert, geschmolzen und verlaufen ist.
